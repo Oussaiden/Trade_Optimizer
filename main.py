@@ -8,7 +8,6 @@ st.set_page_config(
 
 from parametres.list import *
 
-
 #Titre
 st.markdown(
     """
